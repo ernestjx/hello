@@ -1,21 +1,10 @@
-/* colour template
-https://coolors.co/palettes/trending
-blue: 003049, rgb(0, 48, 73)
-red: D62828 rgb(214, 40, 40)
-orange: F77F00 rgb(247, 127, 0)
-lightOrange: FCBF49 rgb(252, 191, 73)
-khaki: EAE2B7 rgb(234, 226, 183) */
-
-.name{
-    /* color: #f77f00;  */
-}
 
 .main{
   margin-top: 3.5rem;
 }
 
 
-.navbar {
+/* .navbar {
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -334,7 +323,7 @@ khaki: EAE2B7 rgb(234, 226, 183) */
   
   .navbar-expand .navbar-toggler {
     display: none;
-  }
+  } */
   
   
   .navbar-dark .navbar-brand {
@@ -369,16 +358,15 @@ khaki: EAE2B7 rgb(234, 226, 183) */
   }
   
   .navbar-dark .navbar-toggler {
+    /* edited */
     color: rgba(255, 255, 255, 0.5);
     border-color: rgba(255, 255, 255, 0.1);
-    outline: none;
+    outline: none;  
   }
 
   
-  .navbar-dark .navbar-toggler:focus, .navbar-dark .navbar-toggler:hover {
+  /* .navbar-dark .navbar-toggler:focus, .navbar-dark .navbar-toggler:hover {
     border-color:rgba(255, 255, 255, 0.5);
-    /* border-width: 2px; */
-
   }
   
   .navbar-dark .navbar-toggler-icon {
@@ -395,7 +383,7 @@ khaki: EAE2B7 rgb(234, 226, 183) */
   
   .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
     color: #fff;
-  }
+  } */
 
   .jumbotron {
     /* padding: 2rem 1rem;
@@ -448,7 +436,7 @@ khaki: EAE2B7 rgb(234, 226, 183) */
 
 .blue-section{
   background-color: #14ABB5;
-  
+
 }
 
 img{
